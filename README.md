@@ -9,8 +9,10 @@ I am a 2nd-year student at Noroff - School of technology and digital media, purs
 
 ![htmlcssjs-details](https://user-images.githubusercontent.com/85433495/223819271-7df1f2fb-4ac8-4f3f-ba07-c7e7344b67a4.png)
 
+## Projects
 
-> If you really look closely, most overnight successes took a long time. - Steve Jobs
+
+### > If you really look closely, most overnight successes took a long time. - Steve Jobs
 
 
 <!--
