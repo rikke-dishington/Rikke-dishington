@@ -1,4 +1,8 @@
-### <Hi, I'm Rikke 👋 />
+### <Hi, Nice to see you 👋 />
+
+Welcome to my page!
+I'm Rikke, a Front-end Development student.
+
 
 <!--
 **rikke-dishington/Rikke-dishington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
