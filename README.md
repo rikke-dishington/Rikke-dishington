@@ -1,7 +1,8 @@
 ### <Hi, Nice to see you 👋 />
 
-Welcome to my page!
-I'm Rikke, a Front-end Development student.
+My name is Rikke, welcome to my page!
+
+I am a 2nd-year student at Noroff - School of technology and digital media, pursuing a higher professional degree in Front-end Development :mortar_board:
 
 
 <!--
