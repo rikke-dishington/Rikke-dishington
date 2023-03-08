@@ -4,6 +4,9 @@ My name is Rikke, welcome to my page!
 
 I am a 2nd-year student at Noroff - School of technology and digital media, pursuing a higher professional degree in Front-end Development :mortar_board:
 
+![htmlcssjs-details](https://user-images.githubusercontent.com/85433495/223819271-7df1f2fb-4ac8-4f3f-ba07-c7e7344b67a4.png)
+
+
 
 
 
