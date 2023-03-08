@@ -14,7 +14,7 @@ Check out my personal website to learn more about me and see my portfolio
 
 
 
-### > If you really look closely, most overnight successes took a long time. - Steve Jobs
+> If you really look closely, most overnight successes took a long time. - Steve Jobs
 
 
 <!--
