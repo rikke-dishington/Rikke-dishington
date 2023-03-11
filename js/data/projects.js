@@ -25,7 +25,7 @@ const projectC = {
     title: "Project Exam 1",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum justo tincidunt, fermentum nisl non, varius nisi. Integer vulputate lectus ut elit bibendum finibus.",
-    link: "https://unrivaled-lamington-831f5b.netlify.app/",
+    link: "https://coruscating-blini-8ad5a3.netlify.app/",
   },
 };
 
