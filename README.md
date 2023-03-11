@@ -6,7 +6,11 @@ I am a 2nd-year part-time student at Noroff - School of technology and digital m
 
 ## Languages and Tools
 
-![htmlcssjs-details](https://user-images.githubusercontent.com/85433495/223819271-7df1f2fb-4ac8-4f3f-ba07-c7e7344b67a4.png)
+![html](https://user-images.githubusercontent.com/85433495/224490067-8536bbd0-8a36-418c-9c9e-42a2126a09a6.png)
+
+![css](https://user-images.githubusercontent.com/85433495/224490011-ed542f82-df96-49e7-b2e8-ded9f004996c.png)
+
+![js](https://user-images.githubusercontent.com/85433495/224490069-8940b4be-6dba-483d-ab5d-99cfbe09b429.png)
 
 ## Website
 
