@@ -18,5 +18,5 @@ I am a 2nd-year part-time student at Noroff - School of technology and digital m
 Check out my [personal website](https://glowing-creponne-2e2b07.netlify.app/) to learn more about me and see my portfolio.
 
 ## Contact
-Don't hisitate to get in touch! :star:
+Don't hesitate to get in touch! :star:
 
