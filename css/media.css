@@ -1,0 +1,36 @@
+@media (max-width: 800px) {
+  .projects {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .intro,
+  .contact-content {
+    grid-template-columns: 1fr;
+  }
+
+  .intro-information,
+  .contact-text {
+    grid-column: 1/2;
+  }
+
+  .intro-image,
+  .contact-image {
+    grid-column: 1/2;
+  }
+
+  .projects {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .project-links {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .cta {
+    width: 100%;
+  }
+}

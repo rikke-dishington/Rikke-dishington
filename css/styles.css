@@ -8,7 +8,7 @@
 }
 
 body {
-  font: var(--primary-font);
+  font-family: var(--primary-font), Arial, Helvetica, sans-serif;
   color: var(--primary-black);
   background: var(--primary-grey);
 }
@@ -16,7 +16,6 @@ body {
 h1,
 h2 {
   font-size: 3em;
-  text-align: center;
 }
 
 h3 {
@@ -24,5 +23,29 @@ h3 {
 }
 
 p {
-  font-size: 1.3em;
+  font-size: 1em;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-black);
+}
+
+a:hover {
+  text-decoration: underline solid 2px;
+}
+
+.cta {
+  margin: auto;
+  width: 50%;
+  background: var(--primary-black);
+  color: var(--primary-grey);
+  padding: 10px 0px;
+  font-size: 1em;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+
+.cta:hover {
+  transform: scale(1.1);
 }

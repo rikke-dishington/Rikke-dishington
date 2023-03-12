@@ -1,7 +1,11 @@
 :root {
-  --primary-font: arial;
-  --primary-black: #020303;
+  --primary-font: "Montserrat";
+  --primary-black: #1c2026;
   --primary-white: #f2f2f2;
   --primary-grey: #e2e2e2;
   --border: 1px solid #0a3641;
 }
+
+/*
+ --primary-black: #020303;
+ */
