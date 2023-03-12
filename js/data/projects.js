@@ -1,7 +1,7 @@
 // Data about developed projects
 const projectA = {
   info: {
-    image: "/images/rainydays.png",
+    image: "/images/Rainydays.png",
     title: "Cross-course project",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum justo tincidunt, fermentum nisl non, varius nisi. Integer vulputate lectus ut elit bibendum finibus.",
@@ -11,7 +11,7 @@ const projectA = {
 
 const projectB = {
   info: {
-    image: "/images/museum.png",
+    image: "/images/communitysciencemuseum.png",
     title: "Semester Project 1",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum justo tincidunt, fermentum nisl non, varius nisi. Integer vulputate lectus ut elit bibendum finibus.",
@@ -21,7 +21,7 @@ const projectB = {
 
 const projectC = {
   info: {
-    image: "/images/eksamen.png",
+    image: "/images/retreivergundog.png",
     title: "Project Exam 1",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum justo tincidunt, fermentum nisl non, varius nisi. Integer vulputate lectus ut elit bibendum finibus.",
