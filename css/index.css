@@ -4,6 +4,7 @@
   margin: 50px 0px;
 }
 
+/* Intro Section */
 .intro {
   display: flex;
   flex-direction: row;
@@ -33,6 +34,7 @@
   font-style: italic;
 }
 
+/* About Section */
 .about {
   background: var(--primary-black);
   text-align: center;
@@ -55,17 +57,60 @@
   text-align: start;
 }
 
+/* Portfolio Section */
 .projects {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin: auto;
+  width: 80%;
 }
 
-.project img {
-  max-width: 150px;
-  min-height: 100px;
+.project-content {
+  flex: 1 1 auto;
+  margin-bottom: 40px;
+}
+
+.project-content img {
+  align-items: center;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.project-content h3 {
+  margin: 40px 0px 10px 0px;
+  padding-top: 10px;
+  border-top: 1px solid;
+}
+
+.project-links {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
+}
+
+.project-links > * {
+  margin: auto;
+  width: 50%;
+}
+
+/* Contact Section */
+.contact {
+  display: grid;
+  width: 100%;
+  grid-template-areas:
+    "header header"
+    "information image";
+}
+
+.contact h2 {
+  grid-area: header;
 }
 
 .contact-text {
+  grid-area: information;
   display: flex;
   flex-direction: row;
 }
@@ -90,14 +135,23 @@
   font-size: 4em;
 }
 
+.contact h3 {
+  font-size: 1em;
+  font-weight: 500;
+}
+
 .contact p {
   font-size: 1.5em;
   font-weight: 800;
   padding: 10px 0px;
 }
 
-.contact img {
-  flex: 1;
+.contact-image {
+  grid-area: image;
+}
+
+.contact-image * {
+  max-height: 100px;
 }
 
 /* Footer */

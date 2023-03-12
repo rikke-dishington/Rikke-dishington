@@ -2,30 +2,34 @@
 const projectA = {
   info: {
     image: "/images/Rainydays.png",
-    title: "Cross-course project",
+    title: "Rainy Days",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum justo tincidunt, fermentum nisl non, varius nisi. Integer vulputate lectus ut elit bibendum finibus.",
-    link: "https://boisterous-alpaca-260b5b.netlify.app",
+      "Rainy Days is an online shop selling men’s and women’s rain jackets. The jackets are designed for a range of different outdoor activates such as hiking, skiing, and kayaking.",
+    site: "https://boisterous-alpaca-260b5b.netlify.app",
+    github: "https://github.com/rikke-dishington/interaction-design-ca",
   },
 };
 
 const projectB = {
   info: {
     image: "/images/communitysciencemuseum.png",
-    title: "Semester Project 1",
+    title: "Community Science Museum",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum justo tincidunt, fermentum nisl non, varius nisi. Integer vulputate lectus ut elit bibendum finibus.",
-    link: "https://silly-swirles-3ed29f.netlify.app/",
+      "In this project I have created a website for an interactive science museum called the Community Science Museum. Their target audience is primary and middel school children and families. The goal for the site is to appear informative and engaging and encourage viewers to visit the museum.",
+    site: "https://silly-swirles-3ed29f.netlify.app/",
+    github: "https://github.com/rikke-dishington/community-science-museum",
   },
 };
 
 const projectC = {
   info: {
     image: "/images/retreivergundog.png",
-    title: "Project Exam 1",
+    title: "Retriever Gundog Blog",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum justo tincidunt, fermentum nisl non, varius nisi. Integer vulputate lectus ut elit bibendum finibus.",
-    link: "https://coruscating-blini-8ad5a3.netlify.app/",
+      "In this project I have created a website for Retriever Gundog Blog.",
+    site: "https://coruscating-blini-8ad5a3.netlify.app/",
+    github:
+      "https://github.com/Noroff-FEU-Assignments/project-exam-1-rikke-dishington",
   },
 };
 

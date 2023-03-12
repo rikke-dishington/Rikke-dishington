@@ -12,15 +12,21 @@ async function renderProjects() {
       const projectImage = projects[i].info.image;
       const projectTitle = projects[i].info.title;
       const projectDescription = projects[i].info.description;
+      const projectGitHub = projects[i].info.github;
+      const projectSite = projects[i].info.site;
 
       portfolioContainer.innerHTML += `
-                                      <div class="project">
-                                      <img src="${projectImage}" />
-                                          <div class="project-information">
+                                      <div class="project-card">
+                                          <div class="project-content">
+                                            <img src="${projectImage}" />
                                             <h3>${projectTitle}</h3>
                                             <p>${projectDescription}</p>
                                           </div>
-                                        </div>`;
+                                          <div class="project-links">
+                                            <a href="${projectGitHub}">GitHub<i class="fa fa-github"></i></a>
+                                            <a href="${projectSite}">Live Site</a>
+                                          </div>  
+                                      </div>`;
     }
   } catch (error) {
     console.log(error);
