@@ -15,7 +15,7 @@ I am a 2nd-year part-time student at Noroff - School of technology and digital m
 - [Community Science Museum - Information](https://silly-swirles-3ed29f.netlify.app/)
 - [Retriever Gundog Blog - Blog](https://coruscating-blini-8ad5a3.netlify.app/)
 
-Check out my personal [Retriever Gundog Blog - Blog](https://glowing-creponne-2e2b07.netlify.app/) to learn more about me and see my portfolio.
+Check out my [personal website](https://glowing-creponne-2e2b07.netlify.app/) to learn more about me and see my portfolio.
 
 ## Contact
 Don't hisitate to get in touch! :star:
