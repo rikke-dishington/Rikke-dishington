@@ -20,3 +20,4 @@ Check out my [personal website](https://glowing-creponne-2e2b07.netlify.app/) to
 ## Contact
 Don't hesitate to get in touch! :star:
 
+<img width="420" alt="profile" src="https://user-images.githubusercontent.com/85433495/224562269-90ef0a48-488a-4494-9ace-d404fb5a0d49.png">
