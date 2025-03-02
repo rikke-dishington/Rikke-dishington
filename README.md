@@ -2,7 +2,7 @@
 
 My name is Rikke, welcome to my page!
 
-I am a 2nd-year part-time student at Noroff - School of technology and digital media, pursuing a higher professional degree in Front-end Development :mortar_board: I work as a System Analyst and believe in agile software development, a user centric design and team work.
+I recently graduated from Noroff - School of Technology and Digital Media with a higher professional degree in Front-end Development :mortar_board: I work as a System Analyst and believe in agile software development, a user centric design and team work.
 
 > If you really look closely, most overnight successes took a long time. - Steve Jobs
 
