@@ -6,10 +6,6 @@ I recently graduated from Noroff - School of Technology and Digital Media with a
 
 > If you really look closely, most overnight successes took a long time. - Steve Jobs
 
-## Languages and Tools
-
-![html](https://user-images.githubusercontent.com/85433495/224490067-8536bbd0-8a36-418c-9c9e-42a2126a09a6.png) ![css](https://user-images.githubusercontent.com/85433495/224490011-ed542f82-df96-49e7-b2e8-ded9f004996c.png) ![js](https://user-images.githubusercontent.com/85433495/224490069-8940b4be-6dba-483d-ab5d-99cfbe09b429.png) ![wordpress](https://user-images.githubusercontent.com/85433495/224490422-923bac3d-218a-4523-a7b3-f7a091a3c1f9.png) ![adobexd](https://user-images.githubusercontent.com/85433495/224490557-5d4c8df3-8813-4c95-be89-01a120f88141.png)
-
 ## Portfolio
 - [Rainy Days](https://boisterous-alpaca-260b5b.netlify.app/)
 - [Community Science Museum](https://silly-swirles-3ed29f.netlify.app/)
