@@ -14,6 +14,9 @@ I recently graduated from Noroff - School of Technology and Digital Media with a
 - [Rainy Days - Webshop](https://boisterous-alpaca-260b5b.netlify.app/)
 - [Community Science Museum - Information](https://silly-swirles-3ed29f.netlify.app/)
 - [Retriever Gundog Blog - Blog](https://coruscating-blini-8ad5a3.netlify.app/)
+- [Rainy Days - Webshop](https://boisterous-alpaca-260b5b.netlify.app/)
+- [Community Science Museum - Information](https://silly-swirles-3ed29f.netlify.app/)
+- [Retriever Gundog Blog - Blog](https://coruscating-blini-8ad5a3.netlify.app/)
 
 Check out my [personal website](https://glowing-creponne-2e2b07.netlify.app/) to learn more about me and see my portfolio.
 
